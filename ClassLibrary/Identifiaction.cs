@@ -4,16 +4,16 @@ using System.Xml.Linq;
 namespace ClassLibrary {
     public struct Identifiaction {
         public int Volume { get; }
-        public int Number { get; }
+        public string Number { get; }
         public int Year { get; }
-        public Identifiaction(int year, int volume, int number) {
+        public Identifiaction(int year, int volume, string number) {
             Volume = volume;
             Number = number;
             Year = year;
         }
 
-        public Identifiaction(int year) : this(year, -1, -1) { }
-        public Identifiaction(int year, int volume) : this(year, volume, -1) { }
+        public Identifiaction(int year) : this(year, -1, "") { }
+        public Identifiaction(int year, int volume) : this(year, volume, "") { }
 
 
         public XElement ToXElement(XNamespace xNameSpace) {
@@ -24,7 +24,7 @@ namespace ClassLibrary {
                     new XElement(xNameSpace + "volume", Volume)
                 );
             }
-            if(Number != -1) {
+            if(Number != "") {
                 elements.Add(
                     new XElement(xNameSpace + "number", Number)
                 );

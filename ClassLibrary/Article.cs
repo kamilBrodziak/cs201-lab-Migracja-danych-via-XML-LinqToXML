@@ -47,8 +47,7 @@ namespace ClassLibrary {
             AccessStatus = el.Parent.Elements("open_access").Count() == 1 ? 1 : 0;
             SectionRef = el.Parent.Element("abbrev").Value;
             var fileNameParts = el.Descendants("remote").First().Attribute("src").Value.Split('-');
-            FileName = string.Join("-", 
-                fileNameParts[fileNameParts.Count() - 2] + fileNameParts[fileNameParts.Count() - 1]);
+            FileName = string.Join("-", fileNameParts.TakeLast(2));
             Id = string.Join("", el.Descendants("remote").First().Attribute("src").Value.Split('-').TakeLast(2));
             var locale = LOCALE;
             var title = el.Elements("title").Where(e => e.Attribute("locale").Value == locale).First().Value;
@@ -69,9 +68,9 @@ namespace ClassLibrary {
             Galley = new Galley(el.Element("galley"), Stage == "published");
             Seq = 1;
             Identifiaction = new Identifiaction(
+                int.Parse(el.Parent.Parent.Element("year").Value),
                 int.Parse(el.Parent.Parent.Element("volume").Value),
-                int.Parse(el.Parent.Parent.Element("number").Value.Split('(')[0]),
-                int.Parse(el.Parent.Parent.Element("year").Value));
+                el.Parent.Parent.Element("number").Value);
             Pages = el.Element("pages").Value;
 
             Keywords = el.Descendants("subject").Any() ? 
