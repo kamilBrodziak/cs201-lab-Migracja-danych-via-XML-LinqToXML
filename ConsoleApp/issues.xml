@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issues PUBLIC "-//PKP//OJS Articles and Issues XML//EN" "http://pkp.sfu.ca/ojs/dtds/2.4.7/native.dtd">
+<issues>
+    <issue published="true" identification="num_vol_year" current="true">
+        <volume>21</volume>
+        <number>2(162)</number>
+        <year>2017</year>
+        <cover locale="en_US">
+            <caption>Agricultural Engineering, Vol. 21, No. 2 (162) (2017)</caption>
+        </cover>
+        <cover locale="pl_PL">
+            <caption>Agricultural Engineering, Vol. 21, No. 2 (162) (2017)</caption>
+        </cover>
+        <date_published>2017-07-26</date_published>
+        <open_access/>
+        <section>
+            <title locale="en_US">Articles</title>
+            <title locale="pl_PL">Artykuły</title>
+            <abbrev locale="en_US">ART</abbrev>
+            <abbrev locale="pl_PL">ART</abbrev>
+            <article locale="en_US" language="en">
+                <title locale="en_US">Solutions to Pollution Problems of Oil</title>
+                <title locale="pl_PL">Sposoby zapobiegania zanieczyszczeniom produktów naftowych</title>
+                <abstract locale="en_US">The purpose of the research is to improve the processes of conservation indicators of quality petroleum products (POL). As a hypothesis, it was assumed that the quality of fuel depends on its main quality parameters that most strongly vary during storage and transportation. The methods were applied which are used at the theoretical level of research, such as abstraction, deduction, analysis and synthesis, etc. We presented the main problems of pollution of oil. Moreover, we provided indicators of physical and chemical properties of diesel fuel and motor oil, which characterize their performance and the list of used additives. We analysed the scientific and patent work. We provided solutions to the problem. Correct storage and use of fuel will help maintain its quality parameters and ensure safety and durability of machinery.</abstract>
+                <abstract locale="pl_PL">Celem badań jest poprawa wskaźników procesów ochrony jakości produktów naftowych (paliw i smarów). Sformułowano następującą hipotezę, że jakość paliw i smarów zależy od jego głównych parametrów jakościowych, które najsilniej zmieniają się podczas przechowywania i transportu. Użyto metody stosowanej na poziomie badań teoretycznych, takich jak abstrakcja, dedukcja, analiza i synteza, etc. Głównym problemem zanieczyszczenia ropą naftową, są wskaźniki właściwo-ści fizycznych i chemicznych oleju napędowego i olejów silnikowych, charakteryzujące ich wydajność oraz listę zastosowanych dodatków. Zatem właściwe przechowywanie i wykorzystanie paliw i smarów pomoże utrzymać ich parametry jakościowe i zapewnić bezpieczeństwo oraz trwałość urządzeń pracujących przy ich użyciu.</abstract>
+                <indexing>
+                    <subject locale="en_US">coefficient of filterability; the chemical composition of hydrocarbons; additives for diesel fuel; the process of desublimation</subject>
+                    <subject locale="pl_PL">współczynnik filtracji; skład chemiczny węglowodorów; dodatki do oleju napędowego; proces desublimacji</subject>
+                </indexing>
+                <author primary_contact="true">
+                    <firstname>Barbara</firstname>
+                    <lastname>Krzysztofik</lastname>
+                    <affiliation locale="en_US">Institute of Machinery Management, Ergonomics and Production Processes, University of Agriculture in Krakow</affiliation>
+                    <country>PL</country>
+                    <email>Barbara.Krzysztofik@ur.krakow.pl</email>
+                </author>
+                <author>
+                    <firstname>Andesh</firstname>
+                    <lastname>Abdrakhmanov</lastname>
+                    <affiliation locale="en_US">S. Seifullin Kazakh Agro Technical University in Astan</affiliation>
+                    <email>noreply@wir.ptir.org</email>
+                </author>
+                <author>
+                    <firstname>Berikbay</firstname>
+                    <lastname>Orazaliyev</lastname>
+                    <affiliation locale="en_US">S. Seifullin Kazakh Agro Technical University in Astan</affiliation>
+                    <email>noreply@wir.ptir.org</email>
+                </author>
+                <author>
+                    <firstname>Beibut</firstname>
+                    <lastname>Zhusin</lastname>
+                    <affiliation locale="en_US">S. Seifullin Kazakh Agro Technical University in Astan</affiliation>
+                    <email>noreply@wir.ptir.org</email>
+                </author>
+                <author>
+                    <firstname>Symbat</firstname>
+                    <lastname>Tynysbekova</lastname>
+                    <affiliation locale="en_US">S. Seifullin Kazakh Agro Technical University in Astan</affiliation>
+                    <email>noreply@wir.ptir.org</email>
+                </author>
+                <pages>5-14</pages>
+                <date_published>2017-06-26</date_published>
+                <permissions>
+                    <license_url>http://creativecommons.org/licenses/by-nc-nd/4.0</license_url>
+                    <copyright_holder locale="en_US">Agricultural Engineering</copyright_holder>
+                    <copyright_holder locale="pl_PL">Agricultural Engineering</copyright_holder>
+                    <copyright_year>2017</copyright_year>
+                </permissions>
+                <galley locale="en_US">
+                    <label>HTML</label>
+                    <file>
+                        <remote src="https://doi.org/10.1515/agriceng-2017-0011"/>
+                    </file>
+                </galley>
+            </article>
+            <article locale="en_US" language="en">
+                <title locale="en_US">New Developments of Solar Energy Utilization in the Aspect of EU Directives</title>
+                <title locale="pl_PL">Nowe technologie rozwoju energetyki solarnej w aspekcie dyrektyw UE</title>
+                <abstract locale="en_US">Photovoltaic systems are very efficient concerning proper utilization of solar radiation. However, the nanotechnology solution can replace the photovoltaic by the use of new production technology to lower the price of solar cells to one tenth. Sun provides nearly unlimited energy resource, but existing solar energy harvesting technologies are quite expensive and cannot compete with fossil fuels. The central part of Poland, which represents about 50 percent of the area, gives solar radiation at the level of 1000 kWh·m&lt;sup&gt;-2&lt;/sup&gt;/year. Other new developments, which can help improve existing efficiency of solar systems are: diatoms utilization, artificial photosynthesis, nanoleaves and rotation solar towers.</abstract>
+                <abstract locale="pl_PL">Układy fotowoltaiczne są bardzo wydajne pod względem właściwego wykorzystania promieniowania słonecznego. Jednakże rozwiązania nanotechnologiczne mogą zastąpić fotowoltaikę dzięki wykorzystaniu nowej technologii produkcji, w celu obniżenia ceny ogniw słonecznych do jednej dziesiątej. Słońce dostarcza prawie nieograniczone zasoby energii, ale istniejące technologie jej pozyskiwania są dość kosztowne i nie mogą konkurować z paliwami kopalnymi. W centralnej części Polski, która stanowi około 50 procent powierzchni, promieniowanie słoneczne osiąga poziom 1000 kWh∙m&lt;sup&gt;-2&lt;/sup&gt;/rok. Innymi nowymi rozwiązaniami, które mogą przyczynić się do poprawy istniejącej efektywności systemów słonecznych są: wykorzystanie sztucznej fotosyntezy, nanotechnologii, czy też wprowadzenie obrotowych wież słonecznych.</abstract>
+                <indexing>
+                    <subject locale="en_US">solar energy; solar collectors; nanotechnology; artificial photosynthesis; solar towers</subject>
+                    <subject locale="pl_PL">energia słoneczna; kolektory słoneczne; nanotechnologia; sztuczna fotosynteza; wieże słoneczne</subject>
+                </indexing>
+                <author primary_contact="true">
+                    <firstname>Jan</firstname>
+                    <lastname>Barwicki</lastname>
+                    <affiliation locale="en_US">Institute of Technology and Life Sciences in Falenty, Warsaw Branch</affiliation>
+                    <country>PL</country>
+                    <email>j.barwicki@itp.edu.pl</email>
+                </author>
+                <author>
+                    <firstname>Maciej</firstname>
+                    <lastname>Kuboń</lastname>
+                    <affiliation locale="en_US">Institute of Agricultural Engineering and Informatics, University of Agriculture in Krakow</affiliation>
+                    <country>PL</country>
+                    <email>noreply@wir.ptir.org</email>
+                </author>
+                <author>
+                    <firstname>Andrzej</firstname>
+                    <lastname>Marczuk</lastname>
+                    <affiliation locale="en_US">Department of Agricultural and Transport Machines, University of Life Sciences in Lublin, Poland</affiliation>
+                    <country>PL</country>
+                    <email>noreply@wir.ptir.org</email>
+                </author>
+                <pages>15-24</pages>
+                <date_published>2017-06-26</date_published>
+                <permissions>
+                    <license_url>http://creativecommons.org/licenses/by-nc-nd/4.0</license_url>
+                    <copyright_holder locale="en_US">Agricultural Engineering</copyright_holder>
+                    <copyright_holder locale="pl_PL">Agricultural Engineering</copyright_holder>
+                    <copyright_year>2017</copyright_year>
+                </permissions>
+                <galley locale="en_US">
+                    <label>HTML</label>
+                    <file>
+                        <remote src=" https://doi.org/10.1515/agriceng-2017-0012"/>
+                    </file>
+                </galley>
+            </article>
+            <article locale="en_US" language="en">
+                <title locale="en_US">Evaluation of the Dairy Cows' Welfare Based on the Results of the Protocol of the Coordinated Veterinary Inspection Program in Podkarpackie Voivodeship</title>
+                <title locale="pl_PL">Ocena dobrostanu bydła mlecznego na podstawie wyników protokołu SPIWet (Skoordynowany Program Inspekcji Weterynaryjnej) w województwie Podkarpackim</title>
+                <abstract locale="en_US">Dairy cows production plays a significant role in development of Podkarpackie Voivodeship. Progress in this production branch may depend on the dairy production support which is given after relevant types of actions are undertaken. The objective of the research was to determine changes in the level of welfare of production animals, evaluation of practice in dairy cows breeding in the province of Ropczyce and Sędziszów. Breeding documentation and control protocols of the Coordinated Veterinary Inspection Program were applied pursuant to the resolution (1) of the Minister of Agriculture and Rural Development of 28 June 2010 on minimal conditions of maintaining farm animal species. 10 production herds of dairy cows (n = 240) and heifers (n = 101) which produce ≥ 10200 kilo of milk per lactation were used to achieve this objective. Dairy production was observed during individual visits in farms. Surveys were carried out with farm employees with the use of properly prepared veterinary control protocols of the Coordinated Veterinary Inspection Program. Control results were obtained based on the respondents' opinion from controlling institutions, such as: The Agency for Restructuring and Modernization of Agriculture, Regional Veterinary Office and similar certified bodies.</abstract>
+                <abstract locale="pl_PL">Produkcja bydła mlecznego pełni istotną rolę w rozwoju województwa podkarpackiego. Postęp tej gałęzi produkcji, może zależeć od wsparcia produkcji mlecznej, które jest udzielane po podjęciu odpowiedniego rodzaju działań. Celem badania było określenie zmian w poziomie dobrostanu zwierząt produkcyjnych, ocena praktyk w hodowli bydła mlecznego w powiecie ropczyckosędziszowskim. Wykorzystano dokumentację hodowlaną gospodarstw i protokoły kontroli SPIWet (Skoordynowany Program Inspekcji Weterynaryjnej), zgodnie z rozporządzeniem (1) Ministra Rolnictwa i Rozwoju Wsi, z dnia 28 czerwca 2010 r., w sprawie minimalnych warunków utrzymania gatunków zwierząt gospodarskich. Do osiągnięcia tego celu wykorzystano 10 stad produkcyjnych krów mlecznych (n = 240) i jałówek (n = 101), produkujących ≥10200 kg mleka za laktację. Obserwacja produkcji mlecznej odbywała się podczas indywidualnych wizyt w gospodarstwach. Wywiady przeprowadzono z pracownikami gospodarstw, przy wykorzystaniu odpowiednio przygotowanych protokołów kontroli weterynaryjnej – SPIWet. Wyniki kontroli uzyskano na podstawie opinii respondentów z instytucji kontrolujących, takich jak: Agencja Restrukturyzacji i Modernizacji Rolnictwa, Rejonowy Urząd Weterynarii oraz pokrewne organy certyfikowane.</abstract>
+                <indexing>
+                    <subject locale="en_US">milk production; Podkarpackie Voivodeship; Veterinary protocol of the Coordinated Veterinary Inspection Program; welfare</subject>
+                    <subject locale="pl_PL">produkcja mleka; województwo podkarpackie; protokół weterynaryjny SPIWET; dobrostan</subject>
+                </indexing>
+                <author primary_contact="true">
+                    <firstname>Edyta</firstname>
+                    <lastname>Bauer</lastname>
+                    <affiliation locale="en_US">Department of Genetics and Animal Breeding, University of Agriculture in Krakow</affiliation>
+                    <country>PL</country>
+                    <email>e.bauer@ur.krakow.pl</email>
+                </author>
+                <author>
+                    <firstname>Justyna</firstname>
+                    <lastname>Żychlińska-Buczek</lastname>
+                    <affiliation locale="en_US">Department of Genetics and Animal Breeding, University of Agriculture in Krakow</affiliation>
+                    <country>PL</country>
+                    <email>noreply@wir.ptir.org</email>
+                </author>
+                <author>
+                    <firstname>Anna</firstname>
+                    <lastname>Karbowniczak</lastname>
+                    <affiliation locale="en_US">Institute of Agricultural Engineering and Informatics, University of Agriculture in Krakow</affiliation>
+                    <country>PL</country>
+                    <email>noreply@wir.ptir.org</email>
+                </author>
+                <author>
+                    <firstname>Hubert</firstname>
+                    <lastname>Latała</lastname>
+                    <affiliation locale="en_US">Institute of Agricultural Engineering and Informatics, University of Agriculture in Krakow</affiliation>
+                    <country>PL</country>
+                    <email>noreply@wir.ptir.org</email>
+                </author>
+                <pages>25-31</pages>
+                <date_published>2017-06-26</date_published>
+                <permissions>
+                    <license_url>http://creativecommons.org/licenses/by-nc-nd/4.0</license_url>
+                    <copyright_holder locale="en_US">Agricultural Engineering</copyright_holder>
+                    <copyright_holder locale="pl_PL">Agricultural Engineering</copyright_holder>
+                    <copyright_year>2017</copyright_year>
+                </permissions>
+                <galley locale="en_US">
+                    <label>HTML</label>
+                    <file>
+                        <remote src="https://doi.org/10.1515/agriceng-2017-0013"/>
+                    </file>
+                </galley>
+            </article>
+            <article locale="en_US" language="en">
+                <title locale="en_US">Impact of the Irrigation Dose Amount on the Wheat Yield</title>
+                <title locale="pl_PL">Wpływ wielkości dawki nawadniania na plon pszenicy</title>
+                <abstract locale="en_US">The paper presents analysis of the impact of irrigation dose on the winter wheat Bystra yield, which is recommended for cultivation in Poland. It is a low-growing high-yield wheat cultivar. A reel sprinkler equipped with a computer for control of parameters of its operation, which was supplied with pond water was used for irrigation. Test were carried out on five fields, where four irrigation doses were used: 15, 20, 25, 30 mm. A change of weather during research in May and June caused the need to irrigate a field four times. During research, the size of the irrigation dose was measured with rain gauges on each of the investigated fields in five measurement points. One of the fields was a control field, which was not irrigated. The investigated wheat was characterized during harvesting. Research proved that the size of the irrigation dose influences the wheat yield. The grain yield between a control field and a field with the highest irrigation dose increased by twofold. Moreover, analysis of costs incurred during sprinkling were analysed.</abstract>
+                <abstract locale="pl_PL">W pracy przedstawiono analizę wpływu wielkości dawki nawadniania na plon pszenicy ozimej Bystra, która jest rekomendowana do uprawy w Polsce. Jest odmianą pszenicy niskopiennej o wysokim plonowaniu. Do nawadniania użyto deszczowni szpulowej wyposażonej w komputer do sterowania parametrami jej pracy, którą zasilano wodą ze stawu. Badania przeprowadzono na pięci poletkach, na których stosowano cztery dawki nawadniania: 15, 20, 25, 30 mm. Zmiana pogody podczas badań w maju i czerwcu spowodowała konieczność czterokrotnego nawadnianie pola. W czasie badań mierzono wielkość dawki irygacji za pomocą deszczomierzy na każdym z badanych poletek w pięciu punktach pomiarowych. Jedno z poletek było poletkiem kontrolnym, które nie było nawadniane. W czasie zbioru dokonano charakterystyki badanej pszenicy. Badania dowiodły, że wielkość dawki nawadniania ma wpływ na plon pszenicy. Plon ziarna między poletkiem kontrolnym, a poletkiem o największej dawce nawadniania wzrósł 2-krotnie. Dodatkowo dokonano analizy kosztów poniesionych w trakcie deszczowania.</abstract>
+                <indexing>
+                    <subject locale="en_US">sprinkler; irrigation; exploitation; wheat</subject>
+                    <subject locale="pl_PL">deszczownia; nawadnianie; eksploatacja; pszenica</subject>
+                </indexing>
+                <author primary_contact="true">
+                    <firstname>Jerzy</firstname>
+                    <lastname>Bieniek</lastname>
+                    <affiliation locale="en_US">Institute of Agricultural Engineering, Wroclaw University of Environmental and Life Sciences</affiliation>
+                    <country>PL</country>
+                    <email>jerzy.bieniek@upwr.edu.pl</email>
+                </author>
+                <author>
+                    <firstname>Marek</firstname>
+                    <lastname>Mielnicki</lastname>
+                    <affiliation locale="en_US">Institute of Agricultural Engineering, Wroclaw University of Environmental and Life Sciences</affiliation>
+                    <country>PL</country>
+                    <email>noreply@wir.ptir.org</email>
+                </author>
+                <author>
+                    <firstname>Leszek</firstname>
+                    <lastname>Romański</lastname>
+                    <affiliation locale="en_US">Institute of Agricultural Engineering, Wroclaw University of Environmental and Life Sciences</affiliation>
+                    <country>PL</country>
+                    <email>noreply@wir.ptir.org</email>
+                </author>
+                <author>
+                    <firstname>Piotr</firstname>
+                    <lastname>Komarnicki</lastname>
+                    <affiliation locale="en_US">Institute of Agricultural Engineering, Wroclaw University of Environmental and Life Sciences</affiliation>
+                    <country>PL</country>
+                    <email>noreply@wir.ptir.org</email>
+                </author>
+                <pages>33-47</pages>
+                <date_published>2017-06-26</date_published>
+                <permissions>
+                    <license_url>http://creativecommons.org/licenses/by-nc-nd/4.0</license_url>
+                    <copyright_holder locale="en_US">Agricultural Engineering</copyright_holder>
+                    <copyright_holder locale="pl_PL">Agricultural Engineering</copyright_holder>
+                    <copyright_year>2017</copyright_year>
+                </permissions>
+                <galley locale="en_US">
+                    <label>HTML</label>
+                    <file>
+                        <remote src="https://doi.org/10.1515/agriceng-2017-0014"/>
+                    </file>
+                </galley>
+            </article>
+            <article locale="en_US" language="en">
+                <title locale="en_US">Impact of Friction on the Uniaxial Soil Sample Compression Process</title>
+                <title locale="pl_PL">Wpływ tarcia na przebieg procesu jednoosiowego ściskania próbki gleby</title>
+                <abstract locale="en_US">The objective of the research was to determine the impact of the friction force between the cylinder wall and soil on the soil compaction resistance in relation to the sample height and diameter of the compaction plate. Samples with the diameter of (&lt;em&gt;D&lt;/em&gt;) 100 mm and heights (&lt;em&gt;H&lt;/em&gt;) of 30, 50 or 100 mm made of of soil material collected from subsoil of the selected plastic soils were used. The soil material wasidentified by the following properties: the granulation type, density of the solid phase, humus and calcium carbonate content, reaction, plastic and liquid limit. Properties of the samples were described with moisture, dry density of solid particles, porosity of aeration, plastic degree and saturation. The samples were loaded with plates of varied diameters (&lt;em&gt;d&lt;sub&gt;A&lt;/sub&gt;&lt;/em&gt;: 20; 30; 50; 70; 80; 90 and 98 mm) measuring at the same time forces on the main plate (&lt;em&gt;F&lt;sub&gt;A&lt;/sub&gt;&lt;/em&gt;) and the bottom one (&lt;em&gt;F&lt;sub&gt;B&lt;/sub&gt;&lt;/em&gt;) with the fixed diameter (&lt;em&gt;d&lt;sub&gt;B&lt;/sub&gt;&lt;/em&gt;=98 mm). The registered relationships between the forces &lt;em&gt;F&lt;sub&gt;A&lt;/sub&gt;&lt;/em&gt; and &lt;em&gt;F&lt;sub&gt;B&lt;/sub&gt;&lt;/em&gt; and plate sinkage (samples deformation) were used for determination of the impact of external friction forces (between the cylinder wall and soil) on the compression resistance of soils. It was found out that the participation of the friction force in relation to the height of samples and plate diameter varied from 0 to ca. 70%. It was proved that one may avoid the impact of the plate diameter &lt;em&gt;d&lt;sub&gt;A&lt;/sub&gt;&lt;/em&gt; on the measurement of force &lt;em&gt;F&lt;sub&gt;A&lt;/sub&gt;&lt;/em&gt;, when the relation &lt;em&gt;d&lt;sub&gt;A&lt;/sub&gt;/D&lt;/em&gt;, for samples with the heights of &lt;em&gt;H&lt;/em&gt;30 and &lt;em&gt;H&lt;/em&gt;50, is respectively within 0.5 ≤ &lt;em&gt;d&lt;sub&gt;A&lt;/sub&gt;/D&lt;/em&gt; &amp;lt; 0.8 and 0.5 ≤ &lt;em&gt;d&lt;sub&gt;A&lt;/sub&gt;/D&lt;/em&gt; &amp;lt; 0.7.</abstract>
+                <abstract locale="pl_PL">Celem badań było określenie wpływu sił tarcia pomiędzy ścianką cylindra a glebą na opór jej zagęszczania, w zależności od wysokości próbki i średnicy stempla zagęszczającego. Stosowano próbki o średnicy (&lt;i&gt;D&lt;/i&gt;) 100 mm i wysokościach (&lt;i&gt;H&lt;/i&gt;) 30, 50 lub 100 mm, wytwarzane z materiału glebowego pobranego z warstwy podornej wybranych gleb plastycznych. Materiał glebowy scharakteryzowano za pomocą: składu granulometrycznego, gęstości fazy stałej, zawartości próchnicy i węglanu wapnia, odczynu, granic plastyczności i płynności. Właściwości próbek opisano: wilgotno- ścią, gęstością objętościową szkieletu, porowatością aeracji, stopniem plastyczności i stopniem wilgotności. Próbki obciążano stemplami o zróżnicowanych średnicach (&lt;i&gt;d&lt;sub&gt;A&lt;/sub&gt;&lt;/i&gt;: 20; 30; 50; 70; 80; 90 i 98 mm) mierząc jednocześnie siły na stemplu górnym (&lt;i&gt;F&lt;sub&gt;A&lt;/sub&gt;&lt;/i&gt;) oraz dolnym (&lt;i&gt;F&lt;sub&gt;B&lt;/sub&gt;&lt;/i&gt;) o stałej średnicy (&lt;i&gt;d&lt;sub&gt;B&lt;/sub&gt;&lt;/i&gt;=98 mm). Zarejestrowane przebiegi sił &lt;i&gt;F&lt;sub&gt;A&lt;/sub&gt;&lt;/i&gt; i &lt;i&gt;F&lt;sub&gt;B&lt;/sub&gt;&lt;/i&gt; od odkształcenia próbek posłużyły do wyznaczenia wpływu sił tarcia zewnętrznego (pomiędzy ścianką cylindra a glebą) na opór ugniatania próbek. Stwierdzono, że udział sił tarcia, w zależności od wysokości próbki oraz średnicy stempla, wynosi od 0 do około 70%. Wykazano, że można uniknąć wpływu średnicy stempla dA na wynik pomiaru siły &lt;i&gt;F&lt;sub&gt;A&lt;/sub&gt;&lt;/i&gt;, gdy stosunek &lt;i&gt;d&lt;sub&gt;A&lt;/sub&gt;/D&lt;/i&gt;, dla próbek o wysokościach &lt;i&gt;H&lt;/i&gt;30 i &lt;i&gt;H&lt;/i&gt;50, zawiera się odpowiednio w przedziałach 0,5 ≤ &lt;i&gt;d&lt;sub&gt;A&lt;/sub&gt;/D&lt;/i&gt; &lt; 0,8 i 0,5 ≤ &lt;i&gt;d&lt;sub&gt;A&lt;/sub&gt;/D&lt;/i&gt; &lt; 0,7.</abstract>
+                <indexing>
+                    <subject locale="en_US">soil; compaction resistance; friction; plate diameter; sample height</subject>
+                    <subject locale="pl_PL">gleba; opór zagęszczania; tarcie; średnica stempla; wysokość próbki</subject>
+                </indexing>
+                <author primary_contact="true">
+                    <firstname>Dariusz</firstname>
+                    <lastname>Błażejczak</lastname>
+                    <affiliation locale="en_US">Department of Construction and Usage of Technical Devices, West Pomeranian University of Technology in Szczecin</affiliation>
+                    <country>PL</country>
+                    <email>dariusz.blazejczak@zut.edu.pl</email>
+                </author>
+                <author>
+                    <firstname>Rafał</firstname>
+                    <lastname>Nowowiejski</lastname>
+                    <affiliation locale="en_US">Departemnt of Agrotechnical Systems Engineering, West Pomeranian University of Technology in Szczecin</affiliation>
+                    <country>PL</country>
+                    <email>noreply@wir.ptir.org</email>
+                </author>
+                <author>
+                    <firstname>Jan B.</firstname>
+                    <lastname>Dawidowski</lastname>
+                    <affiliation locale="en_US">Department of Construction and Usage of Technical Devices, West Pomeranian University of Technology in Szczecin</affiliation>
+                    <country>PL</country>
+                    <email>noreply@wir.ptir.org</email>
+                </author>
+                <pages>49-58</pages>
+                <date_published>2017-06-26</date_published>
+                <permissions>
+                    <license_url>http://creativecommons.org/licenses/by-nc-nd/4.0</license_url>
+                    <copyright_holder locale="en_US">Agricultural Engineering</copyright_holder>
+                    <copyright_holder locale="pl_PL">Agricultural Engineering</copyright_holder>
+                    <copyright_year>2017</copyright_year>
+                </permissions>
+                <galley locale="en_US">
+                    <label>HTML</label>
+                    <file>
+                        <remote src=" https://doi.org/10.1515/agriceng-2017-0015"/>
+                    </file>
+                </galley>
+            </article>
+            <article locale="en_US" language="en">
+                <title locale="en_US">Technological Preconditions in Dairy Farms</title>
+                <title locale="pl_PL">Uwarunkowania technologiczne w gospodarstwach specjalizujących się w produkcji mleka</title>
+                <abstract locale="en_US">The paper presents the impact of the applied technologies on milk yield of cows in dairy farms. The scope of the research covered technical equipment used in the dairy cattle breeding and milking in 50 farms on the area of Grajewo Province in Podlaskie Voivodeship. The studies were carried out in 2016 with the diagnostic survey method based on the interview questionnaire developed for this purpose. The studies proved that 68% of the respondents from Grajewo Province maintain cattle in a stanchion-tide stable system and the remaining 32% in a free stall system. The group (48%) of the surveyed farmers maintain animals on a deep litter and 34% of them use shallow litter. In case of 18% of the investigated farms, animals are maintained on a slatted floor. In case of 68% of the investigated farms their owners feed cattle in the TMR system while the remaining 32% do it traditionally. The analysed farms in milk production use mainly pipeline milking machines (38%) and bucket milking machines (36%). 22% of the investigated farms have a milking parlour and 4% own a milking robot. A statistical analysis proved a significant correlation between the maintenance system of animals, number of lairs in a cow shed, TMR feeding of cattle, manner of obtaining milk and milk yield of cows.</abstract>
+                <abstract locale="pl_PL">W pracy przedstawiono wpływ stosowanych technologii na wydajność mleczną krów w gospodarstwach specjalizujących się w produkcji mleka. Zakresem badań objęto wyposażenie techniczne wykorzystywane w chowie bydła mlecznego oraz doju w 50 gospodarstwach rolnych na terenie powiatu grajewskiego w województwie podlaskim. Badania przeprowadzono w 2016 roku metodą sondażu diagnostycznego na podstawie opracowanego w tym celu kwestionariusza wywiadu. Badania wykazały, że 68% ankietowanych gospodarzy z powiatu grajewskiego utrzymuje bydło w systemie uwięziowym, a pozostałe 32% stosuje system wolnostanowiskowy. Grupa (48%) ankietowanych rolników utrzymuje zwierzęta na głębokiej ściółce, a 34% z nich stosuje płytkie ściółkowanie. W przypadku 18% badanych gospodarstw zwierzęta są utrzymywane na podłodze szczelinowej. W przypadku 68% badanych gospodarstw ich właściciele żywią bydło w systemie TMR, natomiast pozostałe 32% żywi zwierzęta tradycyjnie. Analizowane gospodarstwa w produkcji mleka stosują przede wszystkim dojarki przewodowe (38%) oraz dojarki bańkowe (36%). Halę udojową posiada 22% badanych gospodarstw, natomiast 4% z nich posiada robota udojowego. Analiza statystyczna wykazała istotną dodatnią korelację między systemem utrzymania zwierząt, liczbą stanowisk legowiskowych w oborze, żywieniem bydła TMR, sposobem pozyskiwania mleka a wydajnością mleczną krów.</abstract>
+                <indexing>
+                    <subject locale="en_US">milk production; agricultural farms; technology</subject>
+                    <subject locale="pl_PL">produkcja mleka; gospodarstwa rolne; technologia</subject>
+                </indexing>
+                <author primary_contact="true">
+                    <firstname>Andrzej</firstname>
+                    <lastname>Borusiewicz</lastname>
+                    <affiliation locale="en_US">Department of Agronomics, Higher School of Agribusiness in Łomża</affiliation>
+                    <country>PL</country>
+                    <email>andrzej.borusiewicz@wsa.edu.pl</email>
+                </author>
+                <pages>59-68</pages>
+                <date_published>2017-06-26</date_published>
+                <permissions>
+                    <license_url>http://creativecommons.org/licenses/by-nc-nd/4.0</license_url>
+                    <copyright_holder locale="en_US">Agricultural Engineering</copyright_holder>
+                    <copyright_holder locale="pl_PL">Agricultural Engineering</copyright_holder>
+                    <copyright_year>2017</copyright_year>
+                </permissions>
+                <galley locale="en_US">
+                    <label>HTML</label>
+                    <file>
+                        <remote src="https://doi.org/10.1515/agriceng-2017-0016"/>
+                    </file>
+                </galley>
+            </article>
+            <article locale="en_US" language="en">
+                <title locale="en_US">Application of Bayesian Networks for Forecasting Future Model of Farm</title>
+                <title locale="pl_PL">Wykorzystanie sieci bayesowskich do prognozowania przyszłościowego modelu gospodarstwa rolnego</title>
+                <abstract locale="en_US">Comparative analyses in the national scale were carried out in 300 individual farms from Małopolskie and Świętokrzyskie Voivodeship in order to search for relations between the production intensity level, work performance and land efficiency and factors which shape them. The analyses concerned the use of Bayesian modelling algorithms for forecasting development of various economic and agricultural indicators which decide on the intensity and competitiveness of agriculture. The paper constitutes the second stage of research, which was preceded with previous preparation of data for modelling with the use of an exploratory overview of available data and TwoStep Cluster Analysis (Grotkiewicz et al., 2016). Based on the analyses, which were carried out, networks were built which present the relations between the analyzed variables, and conditional similarities were verified.</abstract>
+                <abstract locale="pl_PL">Poszukując zależności między poziomem intensywności produkcji a wydajnością pracy i ziemi oraz czynnikami je kształtującymi, przeprowadzono analizy porównawcze w skali krajowej na tle 300 gospodarstw indywidualnych z województwa małopolskiego i świętokrzyskiego. Analiza dotyczyła zastosowania algorytmów modelowania bayesowskiego do przewidywania rozwoju róż- nych wskaźników ekonomiczno-rolniczych decydujących o intensywności i konkurencyjności rolnictwa. Praca stanowi drugi etap badań, który poprzedzony był wcześniejszym przygotowaniem danych do modelowania wykorzystując do tego eksploracyjny przegląd dostępnych danych, oraz technikę TwoStep Cluster Analysis (Grotkiewicz i in., 2016). W oparciu o przeprowadzone analizy zbudowano sieci obrazujące związki pomiędzy analizowanymi zmiennymi oraz sprawdzono prawdopodobień- stwa warunkowe.</abstract>
+                <indexing>
+                    <subject locale="en_US">Bayesian Networks; forecasting; economic and agricultural indicators; farm</subject>
+                    <subject locale="pl_PL">sieci bayesowskie; prognozowanie; wskaźniki ekonomiczno-rolnicze; gospodarstwo rolne</subject>
+                </indexing>
+                <author primary_contact="true">
+                    <firstname>Katarzyna</firstname>
+                    <lastname>Grotkiewicz</lastname>
+                    <affiliation locale="en_US">Institute of Agricultural Engineering and Informatics, University of Agriculture in Krakow</affiliation>
+                    <country>PL</country>
+                    <email>katarzyna.grotkiewicz@ur.krakow.pl</email>
+                </author>
+                <pages>69-79</pages>
+                <date_published>2017-06-26</date_published>
+                <permissions>
+                    <license_url>http://creativecommons.org/licenses/by-nc-nd/4.0</license_url>
+                    <copyright_holder locale="en_US">Agricultural Engineering</copyright_holder>
+                    <copyright_holder locale="pl_PL">Agricultural Engineering</copyright_holder>
+                    <copyright_year>2017</copyright_year>
+                </permissions>
+                <galley locale="en_US">
+                    <label>HTML</label>
+                    <file>
+                        <remote src="https://doi.org/10.1515/agriceng-2017-0017"/>
+                    </file>
+                </galley>
+            </article>
+            <article locale="en_US" language="en">
+                <title locale="en_US">The Analysis of the State Space of Management Process in the Industry Applying Expert Systems</title>
+                <title locale="pl_PL">Analiza zastosowania systemu eksperckiego w sterowaniu procesami produkcyjnymi</title>
+                <abstract locale="en_US">The article includes analysis of expert system application possibilities in the environment of production processes control. Such concepts as artificial intelligence, expert system, intellectual factor, state space were used. The object of the research consisted of the mechanism of controlling an enterprise (manager). These mechanisms were analysed from the point of view of state space. The graph method was used to visualize information presentation. Analysis of control processes of an enterprise was carried out by determination of their state space. The concept of state space itself is completed with numerous measurement values (parameters) under influence of which the process of task solution takes place. Moreover, the concept of static and dynamic elements of state space of the control system is applied. It was shown that dynamic elements enable the quality presentation of space, which without including other restrictions leads to extension of its impact, which confirms that a given system has an intelligent factor.</abstract>
+                <abstract locale="pl_PL">W artykule przeprowadzono analizę możliwości zastosowania systemów eksperckich, w takim środowisku, jak sterowanie procesami produkcyjnymi. Wykorzystano terminy: sztuczna inteligencja, system ekspercki, czynnik intelektualny, przestrzeń stabilności. Obiektem badań byłymechanizmy sterowania przedsiębiorstwem (menażerstwa). Mechanizmy te analizowano z punktu widzenia stabilności przestrzennej. W artykule wykorzystano metodę grafów w celu wizualnego przedstawienia informacji. Przeprowadzono analizę procesów sterujących przedsiębiorstwem drogą wyznaczenia ich przestrzeni stabilności. Sam termin przestrzeń stabilności uzupełniany jest licznymi wielkościami pomiarowymi (parametrami), pod wpływem których zachodzi proces rozwiązania zadania. Także stosowane jest pojęcie statycznych i dynamicznych składowych przestrzeni stabilności systemu sterowania. Pokazano, że składowe dynamiczne umożliwiają jakościowe przedstawienie przestrzeni, które przy nie uwzględnianiu innych ograniczeń prowadzi do rozszerzenia swego oddziaływania, co utwierdza o posiadaniu przez dany system inteligentnego czynnika.</abstract>
+                <indexing>
+                    <subject locale="en_US">expert system; analysis; process; production; stability</subject>
+                    <subject locale="pl_PL">system ekspercki; analiza; proces; produkcja; stabilność</subject>
+                </indexing>
+                <author primary_contact="true">
+                    <firstname>Jan Radosław</firstname>
+                    <lastname>Kamiński</lastname>
+                    <affiliation locale="en_US">Department of Agricultural and Forest Machinery, Warsaw University of Life Sciences ‒ SGGW</affiliation>
+                    <country>PL</country>
+                    <email>jan_kaminski@sggw.pl</email>
+                </author>
+                <author>
+                    <firstname>Maciej</firstname>
+                    <lastname>Kuboń</lastname>
+                    <affiliation locale="en_US">Institute of Agricultural Engineering and Informatics, University of Agriculture in Krakow</affiliation>
+                    <country>PL</country>
+                    <email>noreply@wir.ptir.org</email>
+                </author>
+                <author>
+                    <firstname>Irina Dmitrevna</firstname>
+                    <lastname>Ivanova</lastname>
+                    <affiliation locale="en_US">Department of Automation of Technological Process and Production, Mogilev State University of Food Stuffs, Belarus</affiliation>
+                    <email>noreply@wir.ptir.org</email>
+                </author>
+                <author>
+                    <firstname>Andreev Viktorovich</firstname>
+                    <lastname>Sergutenko</lastname>
+                    <affiliation locale="en_US">Department of Automation of Technological Process and Production, Mogilev State University of Food Stuffs, Belarus</affiliation>
+                    <email>noreply@wir.ptir.org</email>
+                </author>
+                <pages>81-90</pages>
+                <date_published>2017-06-26</date_published>
+                <permissions>
+                    <license_url>http://creativecommons.org/licenses/by-nc-nd/4.0</license_url>
+                    <copyright_holder locale="en_US">Agricultural Engineering</copyright_holder>
+                    <copyright_holder locale="pl_PL">Agricultural Engineering</copyright_holder>
+                    <copyright_year>2017</copyright_year>
+                </permissions>
+                <galley locale="en_US">
+                    <label>HTML</label>
+                    <file>
+                        <remote src="https://doi.org/10.1515/agriceng-2017-0018"/>
+                    </file>
+                </galley>
+            </article>
+            <article locale="en_US" language="en">
+                <title locale="en_US">The Influence of Natural and Industrial Factors on the Efficiency of the Dairy Industry</title>
+                <title locale="pl_PL">Wpływ uwarunkowań czynników przyrodniczych i produkcyjnych na mleko</title>
+                <abstract locale="en_US">A comparative analysis of milk production in Poland and Belarus was carried out. The basic tendencies of modern development of the dairy industry and offered upcoming trends of innovative modernization of milk production processes were analyzed. On the basis of the analysis of trends in the global production of milk and new scientific knowledge on the biosynthesis of milk, a conceptual approach to the design of equipment for machine milking, is provided, considered the relationship of technical and physiological parameters.</abstract>
+                <abstract locale="pl_PL">Przeprowadzono analizę porównawczą produkcji mleka w Polsce i na Białorusi. Przeanalizowano podstawowe tendencje nowoczesnego rozwoju przemysłu mleczarskiego i zaproponowano nowoczesne kierunki innowacyjnej modernizacji procesów produkcji mleka. Na podstawie analizy trendów w światowej produkcji mleka i nowych założeń naukowych dotyczących biosyntezy mleka, opracowano innowacyjne podejście w projektowaniu maszyn w produkcji mleka, uwzględniając parametry techniczne i fizjologiczne.</abstract>
+                <indexing>
+                    <subject locale="en_US">milk production; physiologically relaxed process; milking equipment; costs per unit</subject>
+                    <subject locale="pl_PL">produkcja mleka; proces technologiczny; maszyny mleczarskie; koszty jednostkowe</subject>
+                </indexing>
+                <author primary_contact="true">
+                    <firstname>Vadim</firstname>
+                    <lastname>Kitikov</lastname>
+                    <affiliation locale="en_US">Republican Unitary Enterprise Scientific and Practical Centre of the National Academy of Sciences of Belarus for Agriculture Mechanization, Republic of Belarus</affiliation>
+                    <email>kitsikau@tut.by</email>
+                </author>
+                <author>
+                    <firstname>Wacław</firstname>
+                    <lastname>Romaniuk</lastname>
+                    <affiliation locale="en_US">Institute of Technology and Life Sciences, Warsaw, Poland</affiliation>
+                    <country>PL</country>
+                    <email>noreply@wir.ptir.org</email>
+                </author>
+                <pages>91-100</pages>
+                <date_published>2017-06-26</date_published>
+                <permissions>
+                    <license_url>http://creativecommons.org/licenses/by-nc-nd/4.0</license_url>
+                    <copyright_holder locale="en_US">Agricultural Engineering</copyright_holder>
+                    <copyright_holder locale="pl_PL">Agricultural Engineering</copyright_holder>
+                    <copyright_year>2017</copyright_year>
+                </permissions>
+                <galley locale="en_US">
+                    <label>HTML</label>
+                    <file>
+                        <remote src="https://doi.org/10.1515/agriceng-2017-0019"/>
+                    </file>
+                </galley>
+            </article>
+            <article locale="en_US" language="en">
+                <title locale="en_US">Geometrical Model of Lemon Fruit</title>
+                <title locale="pl_PL">Geometryczny model owoców cytryn</title>
+                <abstract locale="en_US">A proposal of a mathematical method of modelling of the lemon shape with Bézier's curves was presented. Lisbon, Verna, Genoa lemon cultivars were selected for verification of the modelling method. The lemon contour, which is its meridian, was described with three smoothly combined Bézier's curves. Pictures taken in 10 locations changing every 36o were the basis for description of lemon contours. Bézier's curves, which approximate meridians located on the surface of lemons, are their 3&lt;em&gt;D&lt;/em&gt; models. The presented method may be applied for mathematical modelling of the lemon shape.</abstract>
+                <abstract locale="pl_PL">Przedstawiono propozycję metody matematycznego modelowania kształtu cytryn z wykorzystaniem krzywych Béziera. Do weryfikacji metody modelowania wybrano cytryny odmian Lisbon, Verna, Genoa. Kontur cytryny, który jest jej południkiem, opisano trzema gładko połączonymi krzywymi Béziera. Podstawą do opisu konturów cytryn są ich fotografie wykonane w 10 zmieniających się co 36o położeniach. Krzywe Béziera aproksymujące południki leżące na powierzchni cytryn są ich modelami 3&lt;i&gt;D&lt;/i&gt;. Przedstawiona metoda może być stosowana do matematycznego modelowania kształtu cytryn.</abstract>
+                <indexing>
+                    <subject locale="en_US">Lemons; shape; Bezier's curves; mathematical models</subject>
+                    <subject locale="pl_PL">cytryny; kształt; krzywe Béziera; modele matematyczne</subject>
+                </indexing>
+                <author primary_contact="true">
+                    <firstname>Leszek</firstname>
+                    <lastname>Mieszkalski</lastname>
+                    <affiliation locale="en_US">Institute of Production Organization and Engineering, Warsaw University of Life Sciences</affiliation>
+                    <country>PL</country>
+                    <email>mieszko@poczta.fm</email>
+                </author>
+                <pages>101-110</pages>
+                <date_published>2017-06-26</date_published>
+                <permissions>
+                    <license_url>http://creativecommons.org/licenses/by-nc-nd/4.0</license_url>
+                    <copyright_holder locale="en_US">Agricultural Engineering</copyright_holder>
+                    <copyright_holder locale="pl_PL">Agricultural Engineering</copyright_holder>
+                    <copyright_year>2017</copyright_year>
+                </permissions>
+                <galley locale="en_US">
+                    <label>HTML</label>
+                    <file>
+                        <remote src="https://doi.org/10.1515/agriceng-2017-0020"/>
+                    </file>
+                </galley>
+            </article>
+        </section>
+    </issue>
+</issues>
